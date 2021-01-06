@@ -15,6 +15,9 @@ img {
 }
 
 nav a {
-  
+
   padding: 10px;
+}
+nav {
+  text-align: center;
 }
