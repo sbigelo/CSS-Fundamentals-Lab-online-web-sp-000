@@ -36,5 +36,6 @@ figcaption {
 }
 
 #details {
+  display: block;
   padding: 15px;
 }
