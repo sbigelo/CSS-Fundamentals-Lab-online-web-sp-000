@@ -36,9 +36,11 @@ figcaption {
 }
 
 #details {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
-  padding: 15px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
