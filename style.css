@@ -36,7 +36,8 @@ figcaption {
 }
 
 #details {
-  position: absolute; 
+  width: auto;
+  position: absolute;
   bottom: 5px;
   background-color: red;
   text-align: center;
