@@ -13,3 +13,8 @@ img {
   margin-right: auto;
   width: 40%;
 }
+
+nav a {
+  text-align: center;
+  padding: 10px;
+}
